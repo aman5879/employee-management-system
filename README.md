@@ -65,18 +65,45 @@ employee-management-system/
 └── README.md
 ```
 
-## 🚀 Installation
-# Clone repository
+## 🚀 Installation & Setup
+
+Follow these steps to run the project locally on your machine.
+
+### 1️⃣ Clone the Repository
+
+```bash
 git clone https://github.com/aman5879/employee-management-system.git
+```
 
-# Enter project folder
+### 2️⃣ Navigate to the Project Directory
+
+```bash
 cd employee-management-system
+```
 
-# Install dependencies
+### 3️⃣ Install Dependencies
+
+```bash
 npm install
+```
 
-# Run development server
+### 4️⃣ Start Development Server
+
+```bash
 npm run dev
+```
+
+---
+
+## 🌐 Open in Browser
+
+After running the development server, open:
+
+```bash
+http://localhost:5173
+```
+
+> *(Default Vite development server URL)*
 
 ---
  
